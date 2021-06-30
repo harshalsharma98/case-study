@@ -1,0 +1,16 @@
+.App {
+  text-align: center;
+}
+
+nav{
+  display: flex;
+  justify-content: space-around;
+  background-color: rgb(82, 151, 151);
+}
+
+.navigation-links {
+  width: 50%;
+  display: flex;
+  justify-content: space-around;
+  list-style: none;
+}
